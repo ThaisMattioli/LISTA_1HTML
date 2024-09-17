@@ -1,0 +1,29 @@
+h1 {
+    width: 100%px;
+    margin: 20px;
+    padding: 30px;
+    background-color: #df9100;
+    font-family: Courier, sans-serif;
+    text-align: center;
+} 
+.color1{
+    color:#9c4e09;
+}
+
+h2{
+    width: 100%px;
+    margin: 20px;
+    padding: 30px;
+    background-color: #faa631;
+    font-family: Courier, sans-serif;
+
+}
+
+h3{
+    font-family: Courier, sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: #dbba7d;
+}

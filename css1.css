@@ -1,0 +1,40 @@
+/* Estilos do corpo */
+ body {
+    font-family: Arial, sans-serif;
+    line-height: 2.0;
+    color: #d3d2db;
+    background-color: #abdfd8db;
+    padding:0px;
+    font-size: 20px;
+   
+ }
+ .box-model {
+    width: 100%px;
+    margin: 110px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #3d9abbf0;
+    text-align: center;
+    border:solid white;
+}
+ footer {
+        background-color: #13aae5;
+        color: #f1f0f0;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        bottom: 0;   
+    
+     }
+     header {
+        background-color: var(--cor-principal);
+        color: #1860be;
+        padding: 10px;
+        text-align: center;
+        font-family:  Courier New, sans-serif;
+        margin: 20px;
+    }
+
+
+   

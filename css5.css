@@ -1,0 +1,32 @@
+h1 {
+  background-color: rgb(67, 219, 113); 
+  color:rgb(0, 0, 0); 
+  font-weight: 500;
+  max-width:100%;
+  text-align: center;
+  margin: 50px auto;
+  padding: 30px;
+  font-family: Georgia;
+  }
+     
+   img {
+    width: 200px;  
+    height: 150px;
+    }
+
+    body{
+   background-color:#d5cfcf ;
+    }
+
+      .imagem-sequencia img {
+        max-width: 100%; /* Garante que as imagens não excedam o contêiner */
+        height: auto;    /* Mantém a proporção da imagem */
+        flex: 1 1 200px;    
+      }
+   
+      .imagem-sequencia {
+        display: flex; /* Alinha as imagens horizontalmente */
+        flex-wrap: wrap; 
+        gap: 10px;     /* Espaçamento entre as imagens */
+      }
+      
